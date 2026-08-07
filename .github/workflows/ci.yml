@@ -1,0 +1,12 @@
+name: ci
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: kuhlman-labs-org/fx-workflows/.github/actions/setup@main
+  shared:
+    uses: kuhlman-labs-org/fx-workflows/.github/workflows/reusable.yml@main
+  cross-org:
+    uses: kuhlman-labs-org-2/fx-xorg-workflows/.github/workflows/reusable.yml@main

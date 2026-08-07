@@ -1,3 +1,4 @@
-# Rework the header parser
+# Rewritten header
 
-Fixture content for the outdated-thread scenario.
+The commented line no longer exists at this position.
+This rewrite is what makes the review thread OUTDATED (#139, P6).

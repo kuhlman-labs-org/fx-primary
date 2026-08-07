@@ -1,0 +1,3 @@
+# Team references become codeowners_team coupling edges.
+*           @kuhlman-labs-org/platform
+/docs/      @kuhlman-labs-org/docs

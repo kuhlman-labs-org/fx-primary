@@ -1,0 +1,6 @@
+[submodule "fx-lib"]
+	path = vendor/fx-lib
+	url = https://github.com/kuhlman-labs-org/fx-lib.git
+[submodule "fx-xorg-lib"]
+	path = vendor/fx-xorg-lib
+	url = https://github.com/kuhlman-labs-org-2/fx-xorg-lib.git

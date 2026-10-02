@@ -4,3 +4,9 @@
 [submodule "fx-xorg-lib"]
 	path = vendor/fx-xorg-lib
 	url = https://github.com/kuhlman-labs-org-2/fx-xorg-lib.git
+[submodule "fx-workflows"]
+	path = vendor/fx-workflows
+	url = "https://github.com/kuhlman-labs-org/fx-workflows.git"
+[submodule "fx-xorg-workflows"]
+	path = vendor/fx-xorg-workflows
+	url = https://github.com/kuhlman-labs-org-2/fx-xorg-workflows.git  # vendored
